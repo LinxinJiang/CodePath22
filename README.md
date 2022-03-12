@@ -1,5 +1,8 @@
 # CodePath-Spring2022
 
+## Twitter Part 1
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW3.gif" width=250><br>
+
 ## Flix Part 2
 
 ### User Stories
