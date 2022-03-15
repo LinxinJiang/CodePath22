@@ -1,8 +1,5 @@
 # CodePath-Spring2022
 
-## Twitter Part 1
-<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW3.gif" width=250><br>
-
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
@@ -24,18 +21,18 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW3.gif" width=250><br>
 
 
 
 
-## Flix Part 2
+# Flix Part 2
 
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ T ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ T ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [ x ] (5pts) User can tap a cell to see more details about a particular movie.
+- [ x ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 ### App Walkthrough GIF
 
