@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW4.gif" width=250><br>
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW4.gif" width=850><br>
 
 
 
@@ -47,7 +47,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW3.gif" width=250><br>
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW3.gif" width=850><br>
 
 
 
@@ -63,6 +63,6 @@ Here's a walkthrough of implemented user stories:
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW2.gif" width=250><br>
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW2.gif" width=850><br>
 
 ### Notes
