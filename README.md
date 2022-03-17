@@ -22,6 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW4.gif" width=850><br>
 
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW4-2.gif" width=850><br>
 
 
 
