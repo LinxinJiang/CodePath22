@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 - [ x ] User can add a new comment. (5pts)
 
 <img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW6.gif" width=850><br>
+<img src="https://github.com/LinxinJiang/CodePath22/blob/main/HW6-2.gif" width=850><br>
+
 
 
 
